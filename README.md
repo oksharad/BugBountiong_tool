@@ -3,13 +3,13 @@
 
 
 
-cd BugBountiong_tool
-chmod +x BugBountiong_tool.sh
-sudo BugBountiong_tool.sh
+cd BugBountiong_tool <br>
+chmod +x BugBountiong_tool.sh <br>
+sudo BugBountiong_tool.sh<br>
 
 
-install automatik 
-y
+install automatic 
+
 
 <h1>Tools List</h1>
 python3.9 <br>
